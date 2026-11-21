@@ -1,0 +1,9 @@
+# Archivos generados al compilar
+Codigo/build/
+build/
+*.exe
+*.obj
+*.o
+# Logs locales
+build_log.txt
+git_log.txt
